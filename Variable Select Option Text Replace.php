@@ -1,3 +1,5 @@
+/*--VARIABLE SELECT OPTIONS TEXT REPLACE--*/
+
 add_filter('gettext', 'translate_text'); 
 add_filter('ngettext', 'translate_text');
 
