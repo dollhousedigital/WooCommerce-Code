@@ -1,3 +1,5 @@
+/*--VARIABLE PRICE FROM--*/
+
 add_filter( 'woocommerce_variable_sale_price_html', 'wc_wc20_variation_price_format', 10, 2 );
 add_filter( 'woocommerce_variable_price_html', 'wc_wc20_variation_price_format', 10, 2 );
  
