@@ -1,0 +1,127 @@
+/*----------------------*/
+/*--WOOCOMMERCE TWEAKS--*/
+/*----------------------*/
+
+.woocommerce-product-gallery__wrapper{
+	display:none; 
+}
+
+.summary{
+	width:100%!important; 
+	float:none!important; 
+}
+
+.woocommerce-tabs{
+	display:none; 
+}
+
+.product_meta{
+	display:none; 
+}
+
+.value{
+	float:left; 
+}
+
+.woocommerce .price .amount{
+	color:#55524d; 
+}
+
+.woocommerce #content-area .product .variations .value select{
+	background-color:rgba(255,255,255,1); 
+	border-width:1px; 
+	border-style:solid; 
+	border-color:#55524d; 
+	border-radius:0px; 
+	padding-top:8px; 
+	padding-bottom:8px; 
+	color:#55524d!important; 
+	font-weight:bold; 
+	text-transform:uppercase; 
+	font-size:15px; 
+}
+
+.woocommerce #content-area .product .variations .label{
+	width:60px!important; 
+	font-size:20px; 
+	padding-top:6px!important; 
+	margin-top:0px; 
+}
+
+.woocommerce #content-area .product form.cart .button{
+	background-color:#55524d; 
+	text-transform:uppercase; 
+	color:rgba(255,255,255,1); 
+	border-color:#55524d; 
+	border-radius:0px; 
+	margin-top:12px; 
+}
+
+.woocommerce #content-area .product form.cart .quantity input.qty{
+	background-color:rgba(255,255,255, 0.2)!important; 
+	color:#55524d!important; 
+	border-width:1px; 
+	border-style:solid!important; 
+	border-color:#55524d; 
+	border-radius:0px; 
+}
+
+.woocommerce #content-area .product{
+	font-size:20px; 
+}
+
+.woocommerce #content-area .product .price{
+	color:#55524d!important; 
+	font-size:35px; 
+}
+
+form:nth-child{
+	font-size:35px; 
+	padding-bottom:0px; 
+	margin-bottom:0px; 
+}
+
+.woocommerce #content-area .product form.cart div.quantity input.qty{
+	padding-top:0px; 
+	margin-top:12px; 
+}
+
+.woocommerce-breadcrumb{
+	display:none; 
+}
+
+.woocommerce #main-content{
+	margin-top:-130px!important; 
+}
+
+
+/*--WOOCOMMERCE SHOP PAGE--*/
+
+.wp-post-image{
+	display:none!important; 
+}
+
+.woocommerce-loop-product__title {
+    margin-top:-30px !important
+}
+
+.wccpf_fields_table .wccpf_label label {
+    width:185px !important;
+    float:left;
+}
+
+#sidebar{
+	border-width:1px; 
+	border-style:solid; 
+	padding-top:20px;
+    padding-bottom:0px;
+	padding-right:20px; 
+	padding-left:20px!important; 
+	background-color:rgba(230,222,208,0.8); 
+	border-radius:3px; 
+	margin-bottom:50px; 
+}
+
+.custom-html-widget {
+    margin-bottom:-20px;
+}
